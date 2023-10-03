@@ -1,5 +1,7 @@
 # CNI-Simplified
 
+You can check out the slides in [here](CNI-simplified.pdf). It is a PDF file, so you might need to download it to view it.
+
 ## Resources
 
 - [Learn the basics of containerization by IBM](https://youtu.be/0qotVMX-J5s?si=SJz0SUmchJ_NziiU)
